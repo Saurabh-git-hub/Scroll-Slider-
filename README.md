@@ -147,7 +147,7 @@ scroll-slider/
 ├── script.js          # Core JavaScript logic
 ├── README.md          # This file
 └── Assets/
-    └── Images/
+    └── images/
         ├── slider1.jpg
         ├── slider2.jpg
         ├── slider3.jpg
