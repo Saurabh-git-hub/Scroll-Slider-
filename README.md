@@ -29,7 +29,6 @@
 - [Project Structure](#-project-structure)
 - [How It Works](#-how-it-works)
 - [Browser Support](#-browser-support)
-- [Contributing](#-contributing)
 - [License](#-license)
 - [Author](#-author)
 
@@ -212,8 +211,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Saurabh Chauahan** - SWE
 
-- 🌐 Portfolio: [saurabh-s-w-e.vercel.app](https://saurabh-s-w-e.vercel.app/)
-- 💼 GitHub: [@saurabh-s-w-e](https://github.com/saurabh-s-w-e)
+- 🌐 Portfolio: [saurabh-website](https://saurabh-s-w-e.vercel.app/)
+- 💼 GitHub: [@saurabh-github](https://github.com/Saurabh-git-hub)
 - 📧 Let's connect!
 
 ---
