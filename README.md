@@ -50,7 +50,7 @@
 
 ## 🚀 Demo
 
-**Live Project**: [View Live Demo](https://saurabh-s-w-e.vercel.app/)
+**Live Project**: [View Live Demo](https://scroll-slider-gamma.vercel.app/)
 
 ---
 
