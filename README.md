@@ -15,7 +15,7 @@
 
 ---
 
-[![Live Demo](Assets/images/home.png)](https://your-live-demo-link.com)
+[![Live Demo](Assets/Images/home.png)](https://your-live-demo-link.com)
 
 ---
 
@@ -70,7 +70,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/saurabh-s-w-e/scroll-slider.git
+git clone https://github.com/Saurabh-git-hub/Scroll-Slider-
 cd scroll-slider
 ```
 
@@ -96,7 +96,6 @@ python -m http.server 8000
 1. **Open the project** in your browser
 2. **Scroll up/down** to navigate between slides
 3. **On mobile**: Swipe up/down to change slides
-4. **Click navigation links** at the top to explore
 
 ### Customization
 
