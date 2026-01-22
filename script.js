@@ -1,11 +1,11 @@
 gsap.registerPlugin(SplitText);
 
 const slideData = [
-    { title: "Frontend Engineering", Image: "./Assets/images/slider1.jpg" },
-    { title: "Backend Systems", Image: "./Assets/images/slider2.jpg" },
-    { title: "API & Databases", Image: "./Assets/images/slider3.jpg" },
-    { title: "DevOps & Cloud", Image: "./Assets/images/slider4.jpg" },
-    { title: "Scalable Solutions", Image: "./Assets/images/slider5.jpg" },
+    { title: "Frontend Engineering", Image: "./Assets/Images/slider1.jpg" },
+    { title: "Backend Systems", Image: "./Assets/Images/slider2.jpg" },
+    { title: "API & Databases", Image: "./Assets/Images/slider3.jpg" },
+    { title: "DevOps & Cloud", Image: "./Assets/Images/slider4.jpg" },
+    { title: "Scalable Solutions", Image: "./Assets/Images/slider5.jpg" },
 ];
 
 
